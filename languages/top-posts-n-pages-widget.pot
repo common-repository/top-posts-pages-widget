@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: top-posts-n-pages-widget 0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-28 19:45-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: top_posts_n_pages.php:20
+msgid "Top Posts & Pages"
+msgstr ""
+
+#: top_posts_n_pages.php:21
+msgid "Displays the top Posts & Pages from the WordPress.com status plugin."
+msgstr ""
+
+#: top_posts_n_pages.php:36 top_posts_n_pages.php:110
+msgid "Top Posts"
+msgstr ""
+
+#: top_posts_n_pages.php:85
+msgid ""
+"I'm sorry, but you don't seem to have the WordPress.com stat plugin "
+"installed on this site."
+msgstr ""
+
+#: top_posts_n_pages.php:128
+msgid "Widget Title"
+msgstr ""
+
+#: top_posts_n_pages.php:130
+msgid "Number of post to show:"
+msgstr ""
+
+#: top_posts_n_pages.php:138
+msgid "Show pages?"
+msgstr ""
+
+#: top_posts_n_pages.php:141
+msgid "Show attachments?"
+msgstr ""
+
+#: top_posts_n_pages.php:144
+msgid "Show Home Page?"
+msgstr ""
+
+#: top_posts_n_pages.php:146
+msgid ""
+"Top Posts &amp; Pages are calculated from WordPress.com stats plugin for the "
+"last 7 days. So, they take a while to change."
+msgstr ""
